@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListViewsAndroid</string>
+    <string name="str_titulo">Lista de personajes de Marvel</string>
+</resources>
